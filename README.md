@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bro
+# 👋 Hi, I'm Bro a security enthusiast and a future Nobel prize winner
 
 Welcome to my GitHub profile.
 
