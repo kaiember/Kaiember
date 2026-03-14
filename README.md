@@ -20,7 +20,7 @@ I'm a curious mind who loves exploring **technology, mathematics, and building t
 
 ## 🛠 Technologies I Use
 - python
-- [microMathematics Plus](https://f-droid.org/packages/com.mkulesh.micromath.plus) or [source code](https://github.com/mkulesh/microMathematics]
+- [microMathematics Plus](https://f-droid.org/packages/com.mkulesh.micromath.plus) or [source code](https://github.com/mkulesh/microMathematics)
 
 
 ---
