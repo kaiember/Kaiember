@@ -74,7 +74,7 @@ I believe many interesting things in technology can still be discovered by **cur
 - **basic python syntax ✅**
 - **build command line projects ✅**
 - **basic cli commands ✅**
-- **advanced python   ** *I'm currently here*
+- **advanced python** *I'm currently here*
 - **basics of networking**
 - **python GUI**
 - **AI/ML**
