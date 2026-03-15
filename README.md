@@ -15,6 +15,7 @@ I'm a curious mind who loves exploring **technology, mathematics, and building t
 - 🧮 Mathematics
 - ⚙️ Building small but powerful tech projects
 - 🧪 Experimenting with unusual ideas
+- 🧰 physics
 
 ---
 
@@ -72,7 +73,7 @@ I believe many interesting things in technology can still be discovered by **cur
 ⭐ I'm always open and active for collaboration... feel free to contact me 
 
 # my python roadmap
-- **basic python syntax ✅** [source](https://youtu.be/ix9cRaBkVe0?si=5LLo8GfUKSSG2nF2)
+- **basic python syntax ✅** 
 - **build command line projects ✅**
 - **basic cli commands ✅**
 - **advanced python** *I'm currently here*
