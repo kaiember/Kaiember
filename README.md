@@ -72,7 +72,7 @@ I believe many interesting things in technology can still be discovered by **cur
 ⭐ I'm always open and active for collaboration... feel free to contact me 
 
 # my python roadmap
-- **basic python syntax ✅**
+- **basic python syntax ✅** [source](https://youtu.be/ix9cRaBkVe0?si=5LLo8GfUKSSG2nF2)
 - **build command line projects ✅**
 - **basic cli commands ✅**
 - **advanced python** *I'm currently here*
